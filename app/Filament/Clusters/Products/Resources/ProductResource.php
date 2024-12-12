@@ -32,7 +32,7 @@ class ProductResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-bolt';
 
-    protected static ?string $navigationLabel = 'Products';
+    protected static ?string $navigationLabel = 'Products 2024';
 
     protected static ?int $navigationSort = 0;
 
